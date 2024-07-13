@@ -1,4 +1,4 @@
-<p align="left">Graduado em Ciência da Computação.<br><br>Atuando com JAVA no Back-End, conhecimento da linguagem e no ecossistema Spring.<br><br>Além de atuar com outras tecnologias como testes unitários, jUnit, Mockito, RabbitMQ, MongoDB, Docker, AWS, Redis etc.<br><br>Espanhol,Português e Inglês.</p>
+<p align="left">Graduado em Ciência da Computação.<br><br>Atuando com JAVA no Back-End, conhecimento da linguagem e no ecossistema Spring.<br><br>Além de atuar com outras tecnologias como testes unitários, jUnit, Mockito, RabbitMQ, MongoDB, Docker, AWS, Redis.<br><br>Espanhol,Português e Inglês.</p>
 
 ###
 
