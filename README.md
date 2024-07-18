@@ -1,5 +1,4 @@
 <p align="left">Graduado em Ciência da Computação.<br><br>Desenvolvedor Back-End Java no ecossistema Spring.<br><br>Além de atuar com outras tecnologias como testes unitários, jUnit, Mockito, RabbitMQ, MongoDB, Docker, AWS, Redis.<br><br>Espanhol,Português e Inglês.</p>
-**************FALYA add oracle,mysql e redis nos logos
 ###
 
 <div align="left">
@@ -10,6 +9,11 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=oracle" height="40" alt="oracle logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
